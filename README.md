@@ -1,5 +1,7 @@
 # ZeldHash
 
+[![Website](https://img.shields.io/badge/🌐_Website-zeldhash.com-blue?style=for-the-badge)](https://zeldhash.com)
+
 A system that rewards Bitcoin transactions with aesthetically pleasing transaction IDs — those starting with leading zeros.
 
 **100% decentralized. No premine. No VC. Just math.**
